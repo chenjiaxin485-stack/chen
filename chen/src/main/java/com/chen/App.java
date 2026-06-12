@@ -17,6 +17,6 @@ public class App {
     // 4. 添加一个简单的接口测试是否启动成功
     @GetMapping("/")
     public String hello() {
-        return "Hello! Spring Boot is running.";
+        return "Hello! Spring Boot is running.haha哈哈哈哈";
     }
 }
